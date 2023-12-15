@@ -1,9 +1,6 @@
-# OP-RevisionSheet
+# Top 100 DSA Interview Questions
 
-<details>
-<summary> &nbsp&nbsp <h3> Top 100 DSA Interview Questions </h3> 🚀 </summary> 
-
-## Arrays
+## 1. Arrays
 1. [Check if pair with the given Sum exists in Array](https://leetcode.com/problems/two-sum/) - 🟢 Easy
 2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - 🟢 Easy
 3. [Find duplicates](https://leetcode.com/problems/find-all-duplicates-in-an-array/) - 🟡 Medium
@@ -23,7 +20,7 @@
 17. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) - 🟡 Medium
 18. [Program to find the transpose of a matrix](https://leetcode.com/problems/transpose-matrix/) - 🟢 Easy
 
-## Strings
+## 2. Strings
 19. [Word Search](https://leetcode.com/problems/word-search/) - 🟡 Medium
 20. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - 🟡 Medium
 21. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) - 🟡 Medium
@@ -36,7 +33,7 @@
 28. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) - 🟡 Medium
 29. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - 🟢 Easy
 
-## Linked List
+## 3. Linked List
 30. [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) - 🟢 Easy
 31. [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) - 🟢 Easy
 32. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - 🟢 Easy
@@ -47,13 +44,13 @@
 37. [Find the middle of a given linked list](https://leetcode.com/problems/middle-of-the-linked-list/) - 🟢 Easy
 38. [Delete last occurrence of an item from a linked list](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) - 🟡 Medium
 
-## Stacks and Queues
+## 4. Stacks and Queues
 39. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - 🟢 Easy
 39. [Convert Infix expression to Postfix expression](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - 🟡 Medium
 40. [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/) - 🟢 Easy
 41. [Delete middle element of a stack](https://leetcode.com/problems/delete-middle-element-of-a-stack/) - 🟡 Medium
 
-## Trees
+## 5. Trees
 43. [Check mirror in an n-ary tree](https://leetcode.com/problems/symmetric-tree/) - 🟢 Easy
 43. [The Celebrity Problem](https://leetcode.com/problems/find-the-celebrity/) - 🟡 Medium
 44. [Length of the longest valid substring](https://leetcode.com/problems/longest-valid-parentheses/) - 🔴 Hard
@@ -71,17 +68,17 @@
 56. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) - 🟡 Medium
 57. [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - 🟢 Easy
 
-## Trie
+## 6. Trie
 59. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - 🟡 Medium
 59. [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) - 🟡 Medium
 
-## Heap
+## 7. Heap
 61. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - 🟡 Medium
 61. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) - 🔴 Hard
 62. [Largest triplet product in a stream](https://leetcode.com/problems/maximum-product-of-three-numbers/) - 🟢 Easy
 63. [Connect n ropes with minimum cost](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) - 🟡 Medium
 
-## Graphs
+## 8. Graphs
 65. [Clone Graph](https://leetcode.com/problems/clone-graph/) - 🟡 Medium
 65. [Course Schedule](https://leetcode.com/problems/course-schedule/) - 🟡 Medium
 66. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - 🟡 Medium
@@ -96,7 +93,7 @@
 75. [Strongly Connected Components](https://leetcode.com/problems/strong-connected-components/) - 🔴 Hard
 76. [Topological Sorting](https://leetcode.com/problems/course-schedule/) - 🟡 Medium
 
-## Dynamic Programming
+## 9. Dynamic Programming
 78. [Count ways to reach the n’th stair](https://leetcode.com/problems/climbing-stairs/) - 🟢 Easy
 78. [Coin Change](https://leetcode.com/problems/coin-change/) - 🟡 Medium
 79. [0/1 Knapsack Problem](https://leetcode.com/problems/coin-change-2/) - 🟡 Medium
@@ -116,21 +113,9 @@
 93. [Maximum Product Cutting](https://leetcode.com/problems/integer-break/) - 🟡 Medium
 94. [Count number of ways to cover a distance](https://leetcode.com/problems/climbing-stairs/) - 🟢 Easy
 
-## Bit Manipulation
+## 10. Bit Manipulation
 96. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - 🟢 Easy
 96. [Counting Bits](https://leetcode.com/problems/counting-bits/) - 🟡 Medium
 97. [Missing Number](https://leetcode.com/problems/missing-number/) - 🟢 Easy
 98. [Reverse Bits](https://leetcode.com/problems/reverse-bits/) - 🟢 Easy
 99. [Find XOR of all subsets of a set](https://leetcode.com/problems/subsets/) - 🟡 Medium
-
-</details>
-
-
-<details>
-<summary> &nbsp&nbsp <h3> Core CS Interview Questions </h3> 🚀 </summary> 
-  ### Heading
-  1. Foo
-  2. Bar
-    ### TEST 
-     1. [OOPS Interview Questions](https://github.com/aman0046/LastMinuteRevision-OOP) 
-</details>
